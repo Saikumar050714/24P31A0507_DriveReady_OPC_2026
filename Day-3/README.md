@@ -1,4 +1,4 @@
-# Agentic AI -- Day 2
+# Agentic AI -- Day 3
 
 ## Project: Sweet Crumbs Home Bakery Customer Support Chatbot
 
